@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/M2SiCKneSs/https-github.com-M2SiCKneSs-LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/M2SiCKneSs/https-github.com-M2SiCKneSs-LeetCode-Questions/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/M2SiCKneSs/https-github.com-M2SiCKneSs-LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/M2SiCKneSs/https-github.com-M2SiCKneSs-LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

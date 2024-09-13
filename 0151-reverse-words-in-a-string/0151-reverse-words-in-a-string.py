@@ -5,16 +5,15 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        list_2_str=""
         str_list=s.split(" ")
+
+        "Reverse the list of words in place by swapping elements"
         for i in range(len(str_list)//2):
             temp=str_list[i]
             str_list[i]=str_list[-i-1]
             str_list[-i-1]=temp
-        def remove_spaces(s):
-            if s == " ":
-                return ""
-            else:
-                return s
+
+        "Use the lambda function to filter out spaces"
+        remove_spaces = lambda s: "" if s == " " else s
         list_2_str = ' '.join(filter(remove_spaces,str_list))
         return list_2_str

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/M2SiCKneSs/https-github.com-M2SiCKneSs-LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/M2SiCKneSs/https-github.com-M2SiCKneSs-LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/M2SiCKneSs/https-github.com-M2SiCKneSs-LeetCode-Questions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/M2SiCKneSs/https-github.com-M2SiCKneSs-LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/M2SiCKneSs/https-github.com-M2SiCKneSs-LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
